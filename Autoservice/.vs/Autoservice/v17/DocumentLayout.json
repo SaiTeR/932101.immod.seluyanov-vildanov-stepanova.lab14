@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|c:\\users\\brden\\onedrive\\\u0443\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\autoservice\\models\\workermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:models\\workermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\models\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:models\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\models\\customergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:models\\customergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\models\\customerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:models\\customerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\exprandomvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB4FA2-EFEC-4ED4-A815-B003507EF72B}|Autoservice.csproj|solutionrelative:exprandomvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpRandomValue.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\ExpRandomValue.cs",
+              "RelativeDocumentMoniker": "ExpRandomValue.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\ExpRandomValue.cs",
+              "RelativeToolTip": "ExpRandomValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:36:43.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerQueue.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\CustomerQueue.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerQueue.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\CustomerQueue.cs",
+              "RelativeToolTip": "Models\\CustomerQueue.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:16:31.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerManager.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\WorkerManager.cs",
+              "RelativeDocumentMoniker": "Models\\WorkerManager.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\WorkerManager.cs",
+              "RelativeToolTip": "Models\\WorkerManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:08:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\Worker.cs",
+              "RelativeToolTip": "Models\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:07:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\CustomerGenerator.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerGenerator.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\CustomerGenerator.cs",
+              "RelativeToolTip": "Models\\CustomerGenerator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:05:21.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Models\\CustomerManager.cs",
+              "RelativeToolTip": "Models\\CustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:05:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAywCYAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:01:06.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BRDen\\OneDrive\\\u0423\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043C\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u043C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\932101.immod.seluyanov.lab14\\Autoservice\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:31:47.388Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
