@@ -121,7 +121,7 @@
             flowNumeric.Name = "flowNumeric";
             flowNumeric.Size = new Size(95, 35);
             flowNumeric.TabIndex = 5;
-            flowNumeric.Value = new decimal(new int[] { 3, 0, 0, 0 });
+            flowNumeric.Value = new decimal(new int[] { 4, 0, 0, 0 });
             // 
             // mechNumeric
             // 

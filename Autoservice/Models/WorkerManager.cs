@@ -41,7 +41,7 @@ namespace Autoservice.Models
             int busyWorkers = workers.Count(w => w.CurrentCustomer != null);
             double nextServiceTime = busyWorkers > 0 ? customerGenerator.GenerateTime(serviceRate * busyWorkers) : double.MaxValue;
 
-            if (t1 < nextServiceTime)
+            if (curServiceTime < nextServiceTime)
             {
                 Customer newCustomer = customerManger.CreateCustomer();
                 if (busyWorkers < workerCount)
@@ -54,13 +54,13 @@ namespace Autoservice.Models
                     customerQueue.AddCustomerToQueue(newCustomer);
                 }
 
-                T = t1;
+                T = curServiceTime;
             }
             else
             {
                 //////
                 Worker worker = workers.Where(w => w.CurrentCustomer != null)
-                                       .OrderBy(w => w.CalculateServiceCompletionTime(random, l))
+                                       .OrderBy(w => w.CalculateServiceCompletionTime(random, curServiceTime))
                                        .First();
                 worker.CurrentCustomer = customerQueue.RemoveCustomerFromQueue();
                 servedCustomers++;
