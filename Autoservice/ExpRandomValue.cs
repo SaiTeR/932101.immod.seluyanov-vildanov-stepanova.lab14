@@ -8,10 +8,10 @@ namespace Autoservice
 {
     public static class ExpRandomValue
     {
-        public static double Get(double value)
+        public static double Get(double lambda)
         {
             Random rand = new Random();
-            return -Math.Log(rand.NextDouble()) / value;
+            return -Math.Log( rand.NextDouble() ) / lambda;
         }
     }
 }

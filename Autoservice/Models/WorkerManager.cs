@@ -12,20 +12,17 @@ namespace Autoservice.Models
     {
         private int servedCustomers;
         private int workerCount;
-        private List<Worker> workers;
-        private CustomerGenerator customerGenerator;
+
+        private double serviceRate;
+
+        private List<Worker> workers = new List<Worker>();
         private CustomerManager customerManger = new CustomerManager();
-        private double arrivalRate;
         private CustomerQueue customerQueue = new CustomerQueue();
 
-        public WorkerManager(int workerCount, double arrivalRate)
+        public WorkerManager(int workerCount, double serviceRate)
         {
-            this.arrivalRate = arrivalRate;
             this.workerCount = workerCount;
-
-            workers = new List<Worker>();
-            customerGenerator = new CustomerGenerator(arrivalRate);
-            customerQueue = new CustomerQueue();
+            this.serviceRate = serviceRate;
 
             for (int i = 0; i < workerCount; i++)
             {
@@ -33,15 +30,16 @@ namespace Autoservice.Models
             }
         }
 
-        public double CalculateNextEventTime(double curServiceTime, double serviceRate)
+        public void ServeCustomer(double customerServeTime)
         {
             Random random = new Random();
-            double T;
 
             int busyWorkers = workers.Count(w => w.CurrentCustomer != null);
-            double nextServiceTime = busyWorkers > 0 ? customerGenerator.GenerateTime(serviceRate * busyWorkers) : double.MaxValue;
 
-            if (curServiceTime < nextServiceTime)
+            // Определение времени до следующего завершения обслуживания
+            double nextServiceEndTime = busyWorkers > 0 ? ExpRandomValue.Get(this.serviceRate * busyWorkers) : double.MaxValue;
+
+            if (customerServeTime < nextServiceEndTime)
             {
                 Customer newCustomer = customerManger.CreateCustomer();
                 if (busyWorkers < workerCount)
@@ -53,22 +51,18 @@ namespace Autoservice.Models
                 {
                     customerQueue.AddCustomerToQueue(newCustomer);
                 }
-
-                T = curServiceTime;
             }
             else
             {
-                //////
-                Worker worker = workers.Where(w => w.CurrentCustomer != null)
-                                       .OrderBy(w => w.CalculateServiceCompletionTime(random, curServiceTime))
+                Worker worker = workers.Where(w => w.CurrentCustomer != null) // Нахоидм работника с наименьш. временем выполнения обслуживания
+                                       .OrderBy(w => w.CalculateServiceCompletionTime(random, this.serviceRate))
                                        .First();
+
                 worker.CurrentCustomer = customerQueue.RemoveCustomerFromQueue();
+
                 servedCustomers++;
                 busyWorkers--;
-                T = nextServiceTime;
             }
-
-            return T;
         }
 
         private int FindFreeWorkerIndex()

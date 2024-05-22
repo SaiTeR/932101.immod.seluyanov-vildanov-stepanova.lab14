@@ -11,12 +11,6 @@ namespace Autoservice.Models
         private List<Customer> queue = new List<Customer>();
         public int Count => queue.Count;
 
-        public Customer CreateCustomer()
-        {
-            Customer newCustomer = new Customer(queue.Count + 1);
-            queue.Add(newCustomer);
-            return newCustomer;
-        }
 
         public void AddCustomerToQueue(Customer customer)
         {

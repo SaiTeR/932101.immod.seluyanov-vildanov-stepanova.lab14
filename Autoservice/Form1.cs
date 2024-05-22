@@ -8,8 +8,6 @@ namespace Autoservice
         private double serviceRate; // Скорость обслуживания
         private int workerCount;    // Количество механиков
 
-        private double elapsedTime;
-        private CustomerGenerator customerGenerator;
         private WorkerManager workerManager;
 
         public Form1()
@@ -23,11 +21,9 @@ namespace Autoservice
             workerCount = (int)mechNumeric.Value;
             serviceRate = (double)speedNumeric.Value;
 
-            customerGenerator = new CustomerGenerator(arrivalRate);
             workerManager = new WorkerManager(workerCount, serviceRate);
 
             timer1.Start();
-            elapsedTime = 0;
 
             endBtn.Enabled = true;
             startBtn.Enabled = false;
@@ -36,7 +32,8 @@ namespace Autoservice
         private void timer1_Tick(object sender, EventArgs e)
         {
             dataGridView1.Rows.Clear();
-            elapsedTime += workerManager.CalculateNextEventTime(ExpRandomValue.Get(arrivalRate), serviceRate);
+            workerManager.ServeCustomer(ExpRandomValue.Get(arrivalRate));
+
 
             CustomerQueue queue = workerManager.GetQueueInfo();
 
@@ -50,6 +47,8 @@ namespace Autoservice
 
                 dataGridView1.Rows.Add((worker.Id + 1), status);
             }
+
+
             servedLabel.Text = workerManager.GetServedCustomersCount().ToString();
             queueLabel.Text = queue.Count.ToString();
         }
